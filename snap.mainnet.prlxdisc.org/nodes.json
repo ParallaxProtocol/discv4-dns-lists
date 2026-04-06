@@ -1,26 +1,26 @@
 {
     "12aeb24099044963bddcf0388317977f208c3a8d68140e468472c8a03da7143e": {
-        "seq": 1775249274514,
-        "record": "enr:-LG4QAmldZ7I2YpeG9EnD_Dr4PSW5uxXdGKt62sWhryy66lYWKQLqAQg1FyozES05QYPLnZuwiVF3SmmBkBrg-1y48qGAZ1VGjaSgmlkgnY0gmlwhEg9uumIcGFyYWxsYXjHxoT_AEsfgI1wYXJhbGxheC1zbmFwwIlzZWNwMjU2azGhAiBg4B505G_ZROFyNz3BjrFHjsBQ2cLWakSGNHwhXF_Fg3RjcIJ9boN1ZHCCfW4",
-        "score": 246,
+        "seq": 1775450962394,
+        "record": "enr:-LG4QEKnRmjX4-LoycyHAK9aA9z-XF482Q7zlZy4kkkDhEqFVJNBn1nRlxEKe7m16bqWPYs6MJi4-XnCsFCUC_BJYJaGAZ1hH7nagmlkgnY0gmlwhEg9uumIcGFyYWxsYXjHxoT_AEsfgI1wYXJhbGxheC1zbmFwwIlzZWNwMjU2azGhAiBg4B505G_ZROFyNz3BjrFHjsBQ2cLWakSGNHwhXF_Fg3RjcIJ9boN1ZHCCfW4",
+        "score": 124,
         "firstResponse": "2026-04-04T03:13:35Z",
-        "lastResponse": "2026-04-06T04:26:02Z",
-        "lastCheck": "2026-04-06T04:26:02Z"
+        "lastResponse": "2026-04-06T05:03:00Z",
+        "lastCheck": "2026-04-06T05:03:00Z"
     },
     "a553371fb7ad72ae4139f1f01641a2b08f858870738020608ba205afa697f822": {
         "seq": 1775249275623,
         "record": "enr:-LG4QPBdKPAfWg1ZB5DSLF_I9ar0zEWZBe7TopjuN4MH2Vh9f_-IXR7zVTdMyS4d93Sc09a4kdxPGXP9f2pGulE2MlGGAZ1VGjrngmlkgnY0gmlwhEU-XqaIcGFyYWxsYXjHxoT_AEsfgI1wYXJhbGxheC1zbmFwwIlzZWNwMjU2azGhA3_Kz1Wrj_uL17xyK6Iza2pLMEovx2-mWq2rThfRliYXg3RjcIJ9boN1ZHCCfW4",
-        "score": 245,
+        "score": 123,
         "firstResponse": "2026-04-04T03:13:35Z",
-        "lastResponse": "2026-04-06T04:23:38Z",
-        "lastCheck": "2026-04-06T04:23:38Z"
+        "lastResponse": "2026-04-06T04:38:03Z",
+        "lastCheck": "2026-04-06T04:59:06Z"
     },
     "e7694a1f31580b01a1ed23cf9ccf962a7fb09ab8484f5be7c8927347973bf359": {
         "seq": 1775266604263,
         "record": "enr:-LG4QICe2twZFbe0I7Qb1LfChWDRrsyXawYAqRlL6rfvKyxlbOD-DzqB1-wAr5Dmise3_kk9v_O_AVlEnTRait8xlB6GAZ1WIqTngmlkgnY0gmlwhKjnSq-IcGFyYWxsYXjHxoT_AEsfgI1wYXJhbGxheC1zbmFwwIlzZWNwMjU2azGhAjSVfqGanIFwiSpBYz9-wFw8p9E9ZP0VXEhZhchQ-MrXg3RjcIJ9boN1ZHCCfW4",
-        "score": 247,
+        "score": 124,
         "firstResponse": "2026-04-04T03:13:35Z",
-        "lastResponse": "2026-04-06T04:23:28Z",
-        "lastCheck": "2026-04-06T04:23:28Z"
+        "lastResponse": "2026-04-06T04:48:40Z",
+        "lastCheck": "2026-04-06T05:04:59Z"
     }
 }
